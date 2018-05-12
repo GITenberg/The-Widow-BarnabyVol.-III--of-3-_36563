@@ -1,0 +1,38 @@
+_repo: The-Widow-BarnabyVol.-III--of-3-_36563
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Frances Milton
+    aliases:
+    - Milton, Frances
+    - Trollope, Fanny
+    - Trollope, Mrs.
+    birthdate: 1780
+    deathdate: 1863
+    gutenberg_agent_id: '3479'
+    url: http://www.gutenberg.org/2009/agents/3479
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Trollope
+description: The mother of the renowned novelist Anthony Trollope, Frances Trollope
+  began her literary career in the realm of non-fiction, publishing an excoriating
+  takedown of American manners and mores in 1832. She then turned to fiction, channeling
+  her staunch opinions into a series of social novels that tackled the toughest issues
+  of the era. Sprawling epic The Widow Barnaby is one of her most well-received efforts,
+  skillfully weaving elements of domestic drama, tender romance, subtle wit ...
+gutenberg_issued: '2011-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Social classes -- England -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: The Widow Barnaby. Vol. 3 (of 3)
+url: http://www.gutenberg.org/ebooks/36563
